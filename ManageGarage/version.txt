@@ -1,0 +1,3 @@
+Use JDK13
+Connector Java 8.0.27
+JAR jcalendar-1.2.2
